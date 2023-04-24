@@ -1,7 +1,8 @@
-body {background-image: url(fundo.jpeg);
-      background-size: cover;
-
-
+body {
+      font-family: 'Press Start 2P', cursive;
+      background-image: url(fundo.jpeg);
+        background-size: cover;
+    
 }
       
 
@@ -19,6 +20,7 @@ body {background-image: url(fundo.jpeg);
     display: flex;
     justify-content: left;
 
+    
 }
     
 
@@ -29,7 +31,7 @@ body {background-image: url(fundo.jpeg);
 
 .lista-item {display: inline-block;
             margin: 20px 16px;
-            font-size: 25px;
+            font-size: 30px;
 
 
 }
@@ -38,7 +40,18 @@ body {background-image: url(fundo.jpeg);
 
            color: rgb(255, 0, 0);
            display: flex;
+           font-size: 25px 25px;
            justify-content: center;
-           font-size: 30px;
+           
 }
 
+.foto-vinicius {
+
+ width: 120px
+
+}
+
+.estudante-div {
+
+    text-align: center;
+}
