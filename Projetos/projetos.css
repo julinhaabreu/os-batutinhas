@@ -1,0 +1,33 @@
+body {
+    background-image: url(fundo-projetos.png);
+      background-size: cover; 
+      font-family: 'Poppins', sans-serif;
+    
+    
+    }
+
+    .titulo-projetos{ color: red;
+        font-size: 50px;
+
+       text-align: center;}
+
+
+       .foto-semaforo{
+
+        width: 250px
+       
+       }
+
+       .semaforo-div{
+   
+        text-align: center;
+    }
+
+
+    .semaforo-nome {
+
+       color: white;
+    }
+
+    .semaforos-todos { display: grid;
+        grid-template-columns: 20% 20% ;}
