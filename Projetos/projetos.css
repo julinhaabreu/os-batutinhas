@@ -31,3 +31,9 @@ body {
 
     .semaforos-todos { display: grid;
         grid-template-columns: 20% 20% ;}
+
+        .descrição-projetos {
+                        
+                               color: white;
+
+        }
