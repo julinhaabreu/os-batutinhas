@@ -27,6 +27,8 @@ body {
     .semaforo-nome {
 
        color: white;
+
+       font-size: 40px;
     }
 
     .semaforos-todos { display: grid;
@@ -36,4 +38,19 @@ body {
                         
                                color: white;
 
+                               text-align: center;
+
+                               font-size: 30px;
+                      
+
         }
+
+        .descrição-onda { 
+          color: white;
+
+          text-align: center;
+
+          font-size: 30px;
+
+
+         }
