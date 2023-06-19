@@ -54,3 +54,20 @@ body {
 
 
          }
+
+         .buzzer-titulo {
+
+          text-align: center;
+          color: white;
+
+          font-size: 40px;
+
+         }
+
+
+         .buzzer-foto {
+
+          width: 250px;
+           
+          
+         }
