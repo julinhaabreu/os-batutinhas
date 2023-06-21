@@ -68,6 +68,25 @@ body {
          .buzzer-foto {
 
           width: 250px;
+
+          justify-content: center;
+
+          align-items: center;
+
+          display: flex;
+
+
            
           
+         }
+
+         .descrição-buzzer {
+
+          color: white;
+
+          text-align: center;
+
+          font-size: 30px;
+
+
          }
