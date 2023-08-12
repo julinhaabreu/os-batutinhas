@@ -1,29 +1,63 @@
-:root {
-    ---cor-de-fundo: #EBECEE;
-
-
-}
 
 body {
 
      background-color: var(---cor-de-fundo);
      background-image:url(fundo.jpeg);
-     background-size: cover;
      font-family: 'Press Start 2P', cursive;
-
+    
 }
 
 .imagem-logo {
 
     width: 20%;
-    display: flex;
+   
+    
 }
 
 .titulo {
 
     color: rgb(255, 0, 0);
-    display: flex;
+
     justify-content: center;
     font-size: 30px;
+    display: flex;
+    
+
+}
+
+.lista-item {display: inline-block;
+    margin: 50px 40px;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.objetivo {
+    
+    color: rgb(255, 0, 0);
+           display: flex;
+           font-size: 30x 30px;
+           justify-content: center;
+
+
+}
+
+.titulo-objetivo {
+
+ font-size: 40px;
+ justify-content: center;
+display: flex;
+
+}
+
+
+.texto-sobre
+
+{
+font-size: 20px;
+justify-content: center;
+display: flex;
 
 }
