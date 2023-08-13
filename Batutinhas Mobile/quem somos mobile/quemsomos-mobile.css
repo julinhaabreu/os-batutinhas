@@ -1,6 +1,6 @@
 body {
     background-image: url(fundoquemsomos.png);
-    background-size: cover; 
+    
     font-family: 'Poppins', sans-serif;
 
 }
@@ -27,7 +27,7 @@ body {
 
    .vinicius-nome { color: white;}
 
-   .estudantes-todos { display: grid;
+   .estudantes-todos {
                        grid-template-columns: 40% 40% 40% 40% ;
                         
 

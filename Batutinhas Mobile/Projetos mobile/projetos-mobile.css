@@ -1,0 +1,92 @@
+body {
+    background-image: url(fundo-projetos.png);
+      background-size: cover; 
+      font-family: 'Poppins', sans-serif;
+    
+    
+    }
+
+    .titulo-projetos{ color: red;
+        font-size: 50px;
+
+       text-align: center;}
+
+
+       .foto-semaforo{
+
+        width: 250px
+       
+       }
+
+       .semaforo-div{
+   
+        text-align: center;
+    }
+
+
+    .semaforo-nome {
+
+       color: white;
+
+       font-size: 40px;
+    }
+
+    .semaforos-todos { display: grid;
+        grid-template-columns: 20% 20% ;}
+
+        .descrição-projetos {
+                        
+                               color: white;
+
+                               text-align: center;
+
+                               font-size: 30px;
+                      
+
+        }
+
+        .descrição-onda { 
+          color: white;
+
+          text-align: center;
+
+          font-size: 30px;
+
+
+         }
+
+         .buzzer-titulo {
+
+          text-align: center;
+          color: white;
+
+          font-size: 40px;
+
+         }
+
+
+         .buzzer-foto {
+
+          width: 250px;
+
+          justify-content: center;
+
+          align-items: center;
+
+          display: flex;
+
+
+           
+          
+         }
+
+         .descrição-buzzer {
+
+          color: white;
+
+          text-align: center;
+
+          font-size: 30px;
+
+
+         }
