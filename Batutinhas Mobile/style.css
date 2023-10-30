@@ -4,7 +4,7 @@ body {
      background-color: var(---cor-de-fundo);
      background-image:url(fundo.jpeg);
      font-family: 'Press Start 2P', cursive;
-    
+    background-size: cover;
 }
 
 .imagem-logo {

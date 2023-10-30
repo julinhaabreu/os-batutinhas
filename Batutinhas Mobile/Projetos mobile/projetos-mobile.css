@@ -69,11 +69,7 @@ body {
 
           width: 250px;
 
-          justify-content: center;
-
-          align-items: center;
-
-          display: flex;
+          
 
 
            
@@ -87,6 +83,35 @@ body {
           text-align: center;
 
           font-size: 30px;
+
+
+         }
+
+         .descrição-super-maquina {
+
+          color: white;
+
+          text-align: center;
+
+          font-size: 30px;
+
+
+
+         }
+
+         .super-maquina {
+
+          width: 250px
+       
+
+         }
+
+         .super-maquina-titulo {
+
+          text-align: center;
+          color: white;
+
+          font-size: 40px;
 
 
          }
