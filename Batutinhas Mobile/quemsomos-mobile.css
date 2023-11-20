@@ -1,0 +1,35 @@
+body {
+    background-image: url(fundoquemsomos.png);
+    
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.foto-vinicius {
+
+    width: 90px
+    
+   
+   }
+   
+   .estudante-div {
+   
+       text-align: center;
+   }
+
+   
+   .titulo-quemsomos { color: white;
+                       font-size: 50px;
+
+                      text-align: center;
+                      
+   } 
+
+   .vinicius-nome { color: white;}
+
+   .estudantes-todos {
+                       grid-template-columns: 40% 40% 40% 40% ;
+                        
+
+
+   }
